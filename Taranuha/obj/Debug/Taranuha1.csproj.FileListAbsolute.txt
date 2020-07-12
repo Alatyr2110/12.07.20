@@ -1,0 +1,9 @@
+C:\Users\ЯнТарь\source\repos\nnn\Taranuha\Taranuha\bin\Debug\Taranuha.exe.config
+C:\Users\ЯнТарь\source\repos\nnn\Taranuha\Taranuha\bin\Debug\Taranuha.exe
+C:\Users\ЯнТарь\source\repos\nnn\Taranuha\Taranuha\bin\Debug\Taranuha.pdb
+C:\Users\ЯнТарь\source\repos\nnn\Taranuha\Taranuha\obj\Debug\Taranuha1.csprojAssemblyReference.cache
+C:\Users\ЯнТарь\source\repos\nnn\Taranuha\Taranuha\obj\Debug\Taranuha.Properties.Resources.resources
+C:\Users\ЯнТарь\source\repos\nnn\Taranuha\Taranuha\obj\Debug\Taranuha1.csproj.GenerateResource.cache
+C:\Users\ЯнТарь\source\repos\nnn\Taranuha\Taranuha\obj\Debug\Taranuha1.csproj.CoreCompileInputs.cache
+C:\Users\ЯнТарь\source\repos\nnn\Taranuha\Taranuha\obj\Debug\Taranuha.exe
+C:\Users\ЯнТарь\source\repos\nnn\Taranuha\Taranuha\obj\Debug\Taranuha.pdb
